@@ -1,19 +1,26 @@
+body{
+   background-color: black;
+}
+
+.container {
+   margin-top: 50px;
+   width: 550px;
+   align-items: center;
+}
+
 .Knapp {
-    color: rgb(27, 230, 108);
+    color: white;
     text-align: center;
+    margin-right: 40px;
   /* background: black; */
  }
 
- #Box-1{
-    display: inline;
+button:hover {
+   background-color: yellow;
+}
 
+ #Box-1, #Box-2, #Box-3{
+    display: inline;
+ margin-left: 10px;
  }
  
- #Box-2{
-    display: inline;
-
- }
- #Box-3{
-    display: inline;
-
- }

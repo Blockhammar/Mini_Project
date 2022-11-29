@@ -11,4 +11,7 @@ function doStuff(input){
         document.getElementById(input).src = "images/on.png";
 
     }
+
+    
 }
+
